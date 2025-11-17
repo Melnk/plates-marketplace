@@ -1,4 +1,4 @@
-package com.plates.app.backend;
+package com.plates.app;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
